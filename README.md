@@ -1,1 +1,1 @@
-# Gurl: **G**rouping similar **url**s
+# **Gurl**: **G**rouping similar **url**s
