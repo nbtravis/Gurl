@@ -1,1 +1,1 @@
-# Gurl: grouping similar URLs
+# Gurl: **G**rouping similar **url**s
