@@ -1,1 +1,1 @@
-# Gurl: a simple algorithm for grouping URLs
+# Gurl: grouping similar urls
